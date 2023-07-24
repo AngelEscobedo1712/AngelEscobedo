@@ -1,5 +1,3 @@
-# AngelEscobedo
-
 <h1 align="center">Hi, I'm Angel Escobedo</h1>
 <h3 align="center">Data Scientist | Mechatronics Engineer </h3>
 
